@@ -8,12 +8,13 @@ Fully functional MERN stack authentication starter code. I left all of the css f
 
 **Client:** React, Redux Toolkit, Google Login, Axios
 
-**Server:** Node, Express, MongoDB, SendGrid Emai API, JWT
+**Server:** Node, Express, MongoDB, SendGrid Email API, JWT
 
   
 ## Installation 
 
 ```bash 
+  cd MERN-Auth-Starter
   cd client && npm install
   cd ../server && npm install
   npm run dev
@@ -21,7 +22,7 @@ Fully functional MERN stack authentication starter code. I left all of the css f
     
 ## Environment Variables
 
-See example.env files
+See "example.env" files for variables needed
 
   
 ## API Reference
